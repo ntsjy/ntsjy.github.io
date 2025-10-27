@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阿萨 on 江苏新开软件</title>
+    <link>http://localhost:1313/categories/%E9%98%BF%E8%90%A8/</link>
+    <description>Recent content in 阿萨 on 江苏新开软件</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%98%BF%E8%90%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一线达通</title>
+      <link>http://localhost:1313/products/categories-post/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/products/categories-post/</guid>
+      <description>This is the suvailable at [installing hugo]</description>
+    </item>
+  </channel>
+</rss>
